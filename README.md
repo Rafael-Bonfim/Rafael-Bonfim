@@ -42,12 +42,6 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Je
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rafael-Bonfim&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lopes-bonfim-470817308/)
