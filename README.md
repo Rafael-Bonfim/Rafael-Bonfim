@@ -44,10 +44,9 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Je
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Bonfim&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bonfim&layout=compact&theme=dark&hide_border=true&hide=html,css" alt="Linguagens Mais Utilizadas" height="175" />
-</div>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Rafael-Bonfim&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400)
+
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Bonfim&layout=compact&theme=dark&hide_border=true&hide=html,css&cache_seconds=86400)
 
 ---
 
