@@ -1,12 +1,12 @@
 # Hi, I'm Rafael Lopes Bonfim 👋
 
-Student of **Cross-Platform Software Development** at **Fatec Prof. Jessen Vidal** and IT Technician from **Colégio Univap**, focused on Full-Stack web development.
+Student of **Multiplatform Software Development** at **Fatec Prof. Jessen Vidal** and IT Technician from **Colégio Univap**, focused on Full-Stack web development.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Studying **Cross-Platform Software Development** at **Fatec Prof. Jessen Vidal**.
+- 🎓 Studying **Multiplatform Software Development** at **Fatec Prof. Jessen Vidal**.
 - 🏫 Graduated as an IT Technician from **Colégio Univap**.
 - 📍 Based in **São José dos Campos - SP**.
 - 🗣️ **Languages:** Portuguese (Native) | English (Fluent) | Spanish (Basic).
