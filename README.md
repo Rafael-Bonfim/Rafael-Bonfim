@@ -1,19 +1,19 @@
 # Hi, I'm Rafael Lopes Bonfim 👋
 
-Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Jessen Vidal** e Técnico em Informática pelo **Colégio Univap**, focado em desenvolvimento web Full-Stack.
+Student of **Cross-Platform Software Development** at **Fatec Prof. Jessen Vidal** and IT Technician from **Colégio Univap**, focused on Full-Stack web development.
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-- 🎓 Cursando **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Jessen Vidal**.
-- 🏫 Técnico em Informática formado pelo **Colégio Univap**.
-- 📍 Baseado em **São José dos Campos - SP**.
-- 🗣️ **Idiomas:** Português (Nativo) | Inglês (Fluente) | Espanhol (Básico).
+- 🎓 Studying **Cross-Platform Software Development** at **Fatec Prof. Jessen Vidal**.
+- 🏫 Graduated as an IT Technician from **Colégio Univap**.
+- 📍 Based in **São José dos Campos - SP**.
+- 🗣️ **Languages:** Portuguese (Native) | English (Fluent) | Spanish (Basic).
 
 ---
 
-### 🛠️ Tecnologias e Habilidades
+### 🛠️ Technologies and Skills
 
 **Front-end & UI**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,13 +27,13 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Je
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Linguagens de Programação**
+**Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-**Bancos de Dados & Ferramentas**
+**Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,8 +41,8 @@ Estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Prof. Je
 
 ---
 
-### 📬 Conecte-se Comigo
+### 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-bonfim-470817308)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ten-nu-64.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lopes-bonfim-470817308/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-ten-nu-64.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafa.lopes.bonfim@gmail.com)
