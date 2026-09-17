@@ -2,7 +2,7 @@
 
 # Hi, I'm Rafael Lopes Bonfim 👋
 
-Student of **Multiplatform Software Development** at **Fatec Prof. Jessen Vidal** and IT Technician from **Colégio Univap**, focused on Full-Stack web development.
+Student of **Multiplatform Software Development** at **Fatec Prof. Jessen Vidal**.
 
 ---
 
